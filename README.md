@@ -24,3 +24,15 @@ The application is built using:
 - CSS3 for styling and layout
 - JavaScript for interactivity and API consumption
 - OpenWeatherMap API for weather data integration
+# Weather Forecast Web App
+
+This repository contains a web-based weather forecasting app.
+
+## How to use
+
+1. Download the `weatherapp.zip` file from this repository.
+2. Extract the ZIP file on your computer.
+3. Open the extracted folder.
+4. Open `index.html` (or the main HTML file) in your web browser to use the app.
+
+**Note:** The code is provided as a ZIP file only.
